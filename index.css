@@ -1,0 +1,21 @@
+body {
+    background: lightgray;
+}
+
+div {
+    float: left;
+    width: 300px;
+    background: darkgray;
+    margin: auto;
+}
+
+header {
+    width: 300px;
+    padding: 25px;
+    margin: 25px;
+    background: darkgray;
+}
+
+nav{
+    background: darkgray
+}
